@@ -1,5 +1,5 @@
 # pyprobml-information-theory
-This respository is a translation of [chater 6 of Probabilistic Machine Learning: An Introduction by Kevin P. Murphy](https://github.com/probml/pyprobml/tree/master/notebooks/book1/06) from __python__ to __julia__.
+This respository is a translation of [chater 6 of _Probabilistic Machine Learning: An Introduction_ by Kevin P. Murphy](https://github.com/probml/pyprobml/tree/master/notebooks/book1/06) from __python__ to __julia__.
 
 ## Figures
 |Figure No. | Notebook | Figure |
